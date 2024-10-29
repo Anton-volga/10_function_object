@@ -1,0 +1,24 @@
+.game-card {
+    height: 75vh;
+    font-family: 'Open Sans', monospace;
+}
+
+#surnameOutput {
+    color: rgb(27, 48, 170);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#firstNameOutput{
+    color: rgb(128, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+#dateOfBirthOutput {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+#generateData {
+    margin-top: 10px;
+}
